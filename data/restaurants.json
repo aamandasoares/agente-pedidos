@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rest-ipe",
+    "nome": "Cantina Ipê",
+    "categoria": "brasileira",
+    "tempo_entrega_min": 40,
+    "taxa_entrega": 6.0,
+    "cardapio": [
+      {"id": "ipe-prato", "nome": "Prato Raiz", "preco": 32.0},
+      {"id": "ipe-nhoque", "nome": "Nhoque de Abóbora", "preco": 38.0},
+      {"id": "ipe-bolo", "nome": "Bolo de Fubá", "preco": 12.0}
+    ]
+  },
+  {
+    "id": "rest-forno",
+    "nome": "Forno da Praça",
+    "categoria": "pizza",
+    "tempo_entrega_min": 50,
+    "taxa_entrega": 8.0,
+    "cardapio": [
+      {"id": "forno-marguerita", "nome": "Pizza Marguerita", "preco": 42.0},
+      {"id": "forno-milho", "nome": "Pizza de Milho", "preco": 39.0},
+      {"id": "forno-suco", "nome": "Suco de Uva", "preco": 9.0}
+    ]
+  },
+  {
+    "id": "rest-onda",
+    "nome": "Onda Nori",
+    "categoria": "japonesa",
+    "tempo_entrega_min": 55,
+    "taxa_entrega": 10.0,
+    "cardapio": [
+      {"id": "onda-combinado", "nome": "Combinado Maré", "preco": 54.0},
+      {"id": "onda-temaki", "nome": "Temaki de Pepino", "preco": 28.0},
+      {"id": "onda-cha", "nome": "Chá Gelado", "preco": 8.0}
+    ]
+  },
+  {
+    "id": "rest-verde",
+    "nome": "Verde no Pote",
+    "categoria": "vegana",
+    "tempo_entrega_min": 35,
+    "taxa_entrega": 5.0,
+    "cardapio": [
+      {"id": "verde-bowl", "nome": "Bowl de Grãos", "preco": 29.0},
+      {"id": "verde-wrap", "nome": "Wrap de Falafel", "preco": 26.0},
+      {"id": "verde-suco", "nome": "Suco Verde", "preco": 11.0}
+    ]
+  },
+  {
+    "id": "rest-beco",
+    "nome": "Beco do Hambúrguer",
+    "categoria": "hamburguer",
+    "tempo_entrega_min": 45,
+    "taxa_entrega": 7.0,
+    "cardapio": [
+      {"id": "beco-classico", "nome": "Hambúrguer Clássico", "preco": 34.0},
+      {"id": "beco-veg", "nome": "Hambúrguer de Lentilha", "preco": 31.0},
+      {"id": "beco-batata", "nome": "Batata Rústica", "preco": 15.0}
+    ]
+  }
+]
